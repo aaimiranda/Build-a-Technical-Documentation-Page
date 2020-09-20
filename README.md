@@ -1,5 +1,5 @@
 # Build-a-Technical-Documentation-Page
-This files are part of the fourth work of the curriculum of the Responsive Web Design Certification at FreeCodeCamp.
+These files are part of the fourth work of the curriculum of the Responsive Web Design Certification at FreeCodeCamp.
 
 ## Table of contents
 * [General info](#general-info)
