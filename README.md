@@ -31,4 +31,4 @@ $ cd tecDocPage
 ```
 
 ## Screenshot
-![Alt text](/tecDocPage-screenshot.png?raw=true)
+![Alt text](/tecDocPage-screenShot.png?raw=true)
